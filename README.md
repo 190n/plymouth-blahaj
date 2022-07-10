@@ -8,7 +8,7 @@ The 3D model used is by [@IsabelleDotJpeg](https://twitter.com/IsabelleDotJpeg) 
 
 ## Usage
 
-- Install by copying the `blåhaj` directory to `/usr/share/plymouth/themes`
+- Install by copying the `blåhaj` directory to `/usr/share/plymouth/themes`. You can get this directory on its own [from the releases](https://github.com/190n/plymouth-blahaj/releases) (just extract the tarball).
 - Follow your distribution's instructions for changing the theme. [On Arch](https://wiki.archlinux.org/title/Plymouth#Changing_the_theme) you need to:
 	- change the `Theme` option in `/etc/plymouth/plymouthd.conf` to `blåhaj`
 	- run `plymouth-set-default-theme -R blåhaj` as root. For me, this generates a _ton_ of warnings about UTF-8 filenames, but it does end up working.
