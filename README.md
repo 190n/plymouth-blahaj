@@ -5,6 +5,7 @@ This is a Plymouth theme which gives you a spinning low-poly [Blåhaj](https://w
 
 The 3D model used is by [@IsabelleDotJpeg](https://twitter.com/IsabelleDotJpeg) via [Sketchfab](https://sketchfab.com/3d-models/low-poly-blahaj-5ac23e0cd44d49dcaaa14967f7d7a778), licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
+[demo.webm](https://user-images.githubusercontent.com/7763597/179430246-4711df8d-4471-49cb-960f-7b42d1481669.webm)
 
 ## Usage
 
